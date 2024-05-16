@@ -21,7 +21,6 @@
   "GameTimeModifiers": {},
   "VampireStatModifiers": {},
   "EquipmentStatModifiers_Global": {
-    "MaxHealthModifier": 1.25,
     "ResourceYieldModifier": 3.0
   },
   "CastleStatModifiers_Global": {
