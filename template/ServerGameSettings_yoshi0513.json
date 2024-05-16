@@ -1,0 +1,76 @@
+{
+  "TeleportBoundItems": false,
+  "InventoryStacksModifier": 3.0,
+  "DropTableModifier_General": 2.5,
+  "DropTableModifier_Missions": 1.5,
+  "MaterialYieldModifier_Global": 2.75,
+  "BloodEssenceYieldModifier": 2.5,
+  "ClanSize": 20,
+  "DurabilityDrainModifier": 1.25,
+  "CastleDecayRateModifier": 1.25,
+  "CastleBloodEssenceDrainModifier": 2.0,
+  "CastleRelocationCooldown": 36000.0,
+  "BuildCostModifier": 1.25,
+  "RecipeCostModifier": 1.25,
+  "CraftRateModifier": 2.0,
+  "RefinementCostModifier": 1.25,
+  "RefinementRateModifier": 2.0,
+  "VBloodUnitSettings": [],
+  "UnlockedAchievements": [],
+  "UnlockedResearchs": [],
+  "GameTimeModifiers": {},
+  "VampireStatModifiers": {},
+  "EquipmentStatModifiers_Global": {
+    "MaxHealthModifier": 1.25,
+    "ResourceYieldModifier": 2.75
+  },
+  "CastleStatModifiers_Global": {
+    "VerminNestLimit": 5,
+    "HeartLimits": {
+      "Level1": {
+        "FloorLimit": 100,
+        "ServantLimit": 5,
+        "HeightLimit": 6
+      },
+      "Level2": {
+        "FloorLimit": 200,
+        "ServantLimit": 6,
+        "HeightLimit": 6
+      },
+      "Level3": {
+        "FloorLimit": 350,
+        "ServantLimit": 7,
+        "HeightLimit": 6
+      },
+      "Level4": {
+        "FloorLimit": 500,
+        "ServantLimit": 8,
+        "HeightLimit": 6
+      },
+      "Level5": {
+        "FloorLimit": 700,
+        "ServantLimit": 9,
+        "HeightLimit": 6
+      }
+    },
+    "CastleLimit": 3
+  },
+  "PlayerInteractionSettings": {
+    "VSPlayerWeekdayTime": {},
+    "VSPlayerWeekendTime": {},
+    "VSCastleWeekdayTime": {},
+    "VSCastleWeekendTime": {}
+  },
+  "TraderModifiers": {
+    "StockModifier": 1.5,
+    "PriceModifier": 2.0
+  },
+  "WarEventGameSettings": {
+    "WeekdayTime": {},
+    "WeekendTime": {},
+    "ScalingPlayers1": {},
+    "ScalingPlayers2": {},
+    "ScalingPlayers3": {},
+    "ScalingPlayers4": {}
+  }
+}
