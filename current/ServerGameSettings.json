@@ -65,6 +65,9 @@
     "PriceModifier": 2.0
   },
   "WarEventGameSettings": {
+    "Interval": 0,
+    "MajorDuration": 0,
+    "MinorDuration": 0,
     "WeekdayTime": {},
     "WeekendTime": {},
     "ScalingPlayers1": {},
