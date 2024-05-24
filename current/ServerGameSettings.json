@@ -66,13 +66,35 @@
   },
   "WarEventGameSettings": {
     "Interval": 0,
-    "MajorDuration": 0,
-    "MinorDuration": 0,
-    "WeekdayTime": {},
-    "WeekendTime": {},
-    "ScalingPlayers1": {},
-    "ScalingPlayers2": {},
-    "ScalingPlayers3": {},
-    "ScalingPlayers4": {}
+    "MajorDuration": 2,
+    "MinorDuration": 1,
+    "WeekdayTime": {
+      "StartHour": 0,
+      "StartMinute": 0,
+      "EndHour": 23,
+      "EndMinute": 59
+    },
+    "WeekendTime": {
+      "StartHour": 0,
+      "StartMinute": 0,
+      "EndHour": 23,
+      "EndMinute": 59
+    },
+    "ScalingPlayers1": {
+      "PointsModifier": 1.0,
+      "DropModifier": 1.0
+    },
+    "ScalingPlayers2": {
+      "PointsModifier": 0.5,
+      "DropModifier": 0.5
+    },
+    "ScalingPlayers3": {
+      "PointsModifier": 0.25,
+      "DropModifier": 0.25
+    },
+    "ScalingPlayers4": {
+      "PointsModifier": 0.25,
+      "DropModifier": 0.25
+    }
   }
 }
