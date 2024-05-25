@@ -62,12 +62,12 @@
   },
   "TraderModifiers": {
     "StockModifier": 1.5,
-    "PriceModifier": 2.0
+    "PriceModifier": 1.0
   },
   "WarEventGameSettings": {
     "Interval": 0,
-    "MajorDuration": 2,
-    "MinorDuration": 1,
+    "MajorDuration": 5,
+    "MinorDuration": 0,
     "WeekdayTime": {
       "StartHour": 0,
       "StartMinute": 0,
@@ -82,19 +82,19 @@
     },
     "ScalingPlayers1": {
       "PointsModifier": 1.0,
-      "DropModifier": 1.0
+      "DropModifier": 3.0
     },
     "ScalingPlayers2": {
-      "PointsModifier": 0.5,
-      "DropModifier": 0.5
+      "PointsModifier": 1.0,
+      "DropModifier": 3.0
     },
     "ScalingPlayers3": {
-      "PointsModifier": 0.25,
-      "DropModifier": 0.25
+      "PointsModifier": 1.0,
+      "DropModifier": 3.0
     },
     "ScalingPlayers4": {
-      "PointsModifier": 0.25,
-      "DropModifier": 0.25
+      "PointsModifier": 1.0,
+      "DropModifier": 3.0
     }
   }
 }
